@@ -6,7 +6,7 @@ Wirtschaftsinformatik B.Sc 3. Semester
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
-Nicht wirklich
+Nicht wirklich.
 
 ## Das erwarte ich von der Veranstaltung
 
